@@ -1,0 +1,13 @@
+name = "REoptViz"
+uuid = "4624bebd-e77e-4de9-97e6-1fd63aca34e6"
+authors = ["Byron Pullutasig <115118857+bpulluta@users.noreply.github.com> and contributors"]
+version = "0.0.1"
+
+[compat]
+julia = "1.8.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
